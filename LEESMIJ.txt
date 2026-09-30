@@ -1,0 +1,7 @@
+REINIGUNGSDIENST – VERSIE 2
+
+1. Dubbelklik op index.html om de site lokaal te openen.
+2. Alle benodigde CSS, JavaScript en afbeeldingen staan lokaal in deze map.
+3. De bedrijfsnaam, contactgegevens, reviews en teksten zijn demo/placeholder-inhoud.
+4. De twee JPG-afbeeldingen zijn dummybeelden voor deze mock-up.
+5. Voor publicatie moeten Impressum/Datenschutz en echte bedrijfsgegevens worden ingevuld.
